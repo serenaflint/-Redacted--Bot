@@ -18,7 +18,22 @@
 <body>
     <main role="main" class="center inner cover">
         <div id="list">
-            <p><iframe src="README.md" frameborder="0" height="400" width="95%"></iframe></p>
+            <p><iframe id="scpfile" src="" frameborder="0" height="400" width="95%"></iframe></p>
+                <script>
+                        var filename = Math.floor(Math.random() * 100) + 1;
+                        if(filename < 10){
+                          filename = "scp00" + filename + "-dh";
+                        }
+                        else if(filename < 100){
+                          filename = "scp0" + filename + "-dh";
+                        }
+                        else{
+                          filename = "scp"+filename+"-dh";
+                        }
+                        document.write(filename);
+                        document.getElementById("scpfile").setAttribute("src","scpfiles/"+filename+".txt");
+                </script>
+            
         </div>
     </main>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
