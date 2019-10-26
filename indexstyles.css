@@ -1,0 +1,33 @@
+
+  
+  @media (pointer: coarse) and (hover: none) {
+    
+}
+
+body{
+  margin: 0 auto;
+  background-color: grey;
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  background-position: center;
+  font-family: droid-serif, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h1{
+  
+  font-family: 'Libre Barcode 39 Text', cursive;
+  font-size: 100px;
+}
+
+p{
+  font-size: 500%;
+}
+
+.btn {
+    margin-top: 16px;
+    background-color: red;
+    color:white;
+  }
