@@ -13,10 +13,16 @@
     <link rel="stylesheet" href="https://use.typekit.net/uyv8ipz.css">
     <link rel="stylesheet" type="text/css" href="indexstyles.css">
     <link href="https://fonts.googleapis.com/css?family=Inconsolata|Libre+Barcode+39+Text|Slabo+27px" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
+    <link rel="manifest" href="favicons/site.webmanifest">
 </head>
 <header class="text-center mb-4">
-        <a id = "button" href="scpfile.html" class="btn btn-md">Click to access a new file</a>
+    <a id="button" href="scpfile.html" class="btn btn-md">Click to access a new file</a>
 </header>
+
 <body>
     <main role="main" class="text-center center inner cover container">
         <img src="" id="scpimage" alt="SCP" class="mx-auto" width="400" height="400" />
@@ -37,7 +43,7 @@
             var imagename = Math.floor(Math.random() * 818);
             document.getElementById("scpimage").setAttribute("src", "scpphotos/" + imagename + ".jpg");
         </script>
-        
+
     </main>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
