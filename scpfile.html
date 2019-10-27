@@ -17,25 +17,25 @@
 
 <body>
     <main role="main" class="center inner cover container">
-            <img src="" id = "scpimage"  alt="SCP" class="img-fluid" width="40%" height = "auto" />
-            <iframe id="scpfile" src="" scrolling = "auto" frameborder="0" height="700" width="100%"></iframe>
-                <script>
-                        var filename = Math.floor(Math.random() * 501) + 1;
-                        if(filename < 10){
-                          filename = "scp00" + filename + "-dh";
-                        }
-                        else if(filename < 100){
-                          filename = "scp0" + filename + "-dh";
-                        }
-                        else{
-                          filename = "scp"+filename+"-dh";
-                        }
-                        document.getElementById("scpfile").setAttribute("src","scpfiles/"+filename+".txt");
+        <img src="" id="scpimage" alt="SCP" class="img-fluid" width="400" height="400" />
+        <iframe id="scpfile" src="" scrolling="auto" frameborder="0" height="700" width="100%"></iframe>
+        <script>
+            var filename = Math.floor(Math.random() * 1001) + 1;
+            if (filename < 10) {
+                filename = "scp00" + filename + "-dh";
+            }
+            else if (filename < 100) {
+                filename = "scp0" + filename + "-dh";
+            }
+            else {
+                filename = "scp" + filename + "-dh";
+            }
+            document.getElementById("scpfile").setAttribute("src", "scpfiles/" + filename + ".txt");
 
-                        var imagename = Math.floor(Math.random() * 818);
-                        document.getElementById("scpimage").setAttribute("src","scpphotos/"+imagename+".jpg");
-                </script>
-            
+            var imagename = Math.floor(Math.random() * 818);
+            document.getElementById("scpimage").setAttribute("src", "scpphotos/" + imagename + ".jpg");
+        </script>
+
     </main>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
