@@ -1,7 +1,3 @@
-
-rating: +423+–x
-Item #: SCP-092
-Object Class: Safe
 Special Containment Procedures: The three thousand one hundred and twenty-five instances of SCP-092 are to be held in individual cases suitable for containing non-anomalous audio compact discs (CDs), and stored in standard inanimate-object lockers at Site-37. Each instance is to be individually numbered with permanent marker.
 Testing of instances of SCP-092 is to be done in soundproof rooms. Only one instance of SCP-092 may be examined at a time. Only D-class personnel are to listen to previously-unexamined instances of SCP-092. Research proposals which involve non-D-class personnel listening to instances of SCP-092 require written approval from site command.
 The cadaver of SCP-092-B is not currently considered anomalous except by association, and is preserved in the morgue freezer at Site-19.
@@ -212,9 +208,3 @@ Footnotes
 1. Requests have been made to use SCP-092-200 to send exploration teams equipped with environment suits to Himalia; approval is pending.
 2. D-092-7714, who had lost an eye in a fight prior to entering Foundation custody, grew four extra eyes when listening to SCP-092-278.
 3. Although SCP-092 was taken into Foundation custody in ████, von Trier began production on Dimension in the 1980s, with the intention of continuing for 30 years.
-
-
-
-« SCP-091 | SCP-092 | SCP-093 »
-
-

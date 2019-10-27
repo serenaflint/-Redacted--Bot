@@ -1,6 +1,3 @@
-
-
-
  
 
  
@@ -29,14 +26,14 @@ F.A.Q.
 
 
 
-rating: +2494+–x
+
 
 
 SCP-049.
 
 
-Item #: SCP-049
-Object Class: Euclid
+
+
 Special Containment Procedures: SCP-049 is contained within a Standard Secure Humanoid Containment Cell in Research Sector-02 at Site-19. SCP-049 must be sedated before any attempts to transport it. During transport, SCP-049 must be secured within a Class III Humanoid Restriction Harness (including a locking collar and extension restraints) and monitored by no fewer than two armed guards.
 While SCP-049 is generally cooperative with most Foundation personnel, outbursts or sudden changes in behaviour are to be met with elevated force. Under no circumstances should any personnel come into direct contact with SCP-049 during these outbursts. In the event SCP-049 becomes aggressive, the application of lavender (L. multifida) has been shown to produce a calming effect on the entity. Once calmed, SCP-049 generally becomes compliant, and will return to containment with little resistance.
 In order to facilitate the ongoing containment of SCP-049, the entity is to be provided with the corpse of a recently deceased animal (typically a bovine or other large mammal) once every two weeks for study. Corpses that become instances of SCP-049-2 are to be removed from SCP-049's containment cell and incinerated. SCP-049 is no longer permitted to interact with human subjects, and requests for human subjects are to be denied.
@@ -102,7 +99,7 @@ Observation Notes: SCP-049 operated on the goat corpse for several days, eventua
 Observational Log 049.OL.3 SUMMARY
 Subject: SCP-049
 Preface: SCP-049 was provided the corpse of a recently deceased orangutan. SCP-049 expressed noted gratitude at the provision, due to the similarities between the orangutan and common human physiology.
-Observation Notes: SCP-049 spent several days operating on the orangutan, reanimating it several times. However, SCP-049 appeared to be discontent with the results it experienced, returning to the creature three times after its initial reanimation for additional work. After it was unable to reanimate the corpse a fifth time, SCP-049 turned the corpse over to Foundation staff for incineration, stating "I have learned so much from this, though I fear my early optimism was misplaced. I hadn’t yet come across such a… a stumbling block on my road to the cure. More subjects like this would do a great deal in advancing my research."
+Observation Notes: SCP-049 spent several days opeperienced, returning to the creature three times after its initial reanimation for additional work. After it was unable to reanimate the corpse a fifth time, SCP-049 turned the corpse over to Foundation staff for incineration, stating "I have learned so much from this, though I fear my early optimism was misplaced. I hadn’t yet come across such a… a stumbling block on my road to the cure. More subjects like this would do a great deal in advancing my research."
 
 
 Observational Log 049.OL.7 FULL
@@ -187,9 +184,3 @@ Footnotes
 5. SCP-049 has expressed that it does not require sustenance, but enjoys it and feels that the food helps to put it in the right mind to operate.
 6. SCP-049 added to this statement by saying "This is, of course, elementary knowledge for the practical physician. I would have thought you would have learned this during your education!"
 7. Notably, SCP-049's journals are not written in any known language, and attempts by linguists and codebreakers to decipher them have been unsuccessful.
-
-
-
-« SCP-048 | SCP-049 | SCP-050 »
-
-

@@ -1,12 +1,8 @@
-
-rating: +377+–x
-
-
 SCP-013
 
 
-Item #: SCP-013
-Object Class: Safe
+
+
 Special Containment Procedures: SCP-013 are to be kept in a Secure Storage Vault at Site-66. Exposed subjects are to be monitored for differences between their symptoms. Exposed subjects are to be interviewed daily, and any changes in perception are to be logged.
 Description: SCP-013 is the collective designation of 242 cigarettes which display similar anomalies. The most common external detail between instances is the presence of the words “Blue Lady” hand-written on each cigarette in blue ink.
 Subjects who consume the contents of SCP-013 through inhalation will begin to perceive themselves as a specific unidentified woman. Subjects have described the woman to be aged between 25 and 35 years old, standing approximately 1.6 metres tall with an estimated weight of between 50 and 55 kg. Additional recurring details include cropped dark hair, blue eyes, and bright blue lipstick.
@@ -21,9 +17,3 @@ I feel like I used to should know her but I can’t remember. I love her but I d
 her favourite flavour
 where did you go
 i miss you
-
-
-
-« SCP-012 | SCP-013 | SCP-014 »
-
-

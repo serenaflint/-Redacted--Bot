@@ -1,12 +1,8 @@
-
-rating: +256+–x
-
-
 The remains of Mary Reeser following stage 4 SCP-081.
 
 
-Item #: SCP-081
-Object Class: Euclid
+
+
 Special Containment Procedures: Only those with Level 4 clearance and written permission from ███████ may have access to SCP-081. Full hazard gear including suit, gloves, and an oxygen tank must be worn at all times when in the containment area. Suits must be sprayed with a disinfectant shower before leaving the containment area. If containment is breached, the entire area must be exposed to ultraviolet light and then bleached. Those who are suspected of being infected must be quarantined for at least ten (10) days. If no symptoms manifest after the tenth day, then quarantine can be lifted.
 Description: SCP-081 is a contagious virus that appears to be a mutant of the ███████ virus, but with █ segments in its RNA instead of █. The virus only causes symptoms in humans, with rats as passive carriers. SCP-081 can be spread through rat exposure or body fluids including sexual intercourse and blood-to-skin contact.
 SCP-081 infects adipocytes and leukocytes, inducing both to absorb nutrients at a vastly accelerated rate. As the nutrients are absorbed, infected B cells produce and secrete large quantities of a modified human antibody. Adipocytes expand and proliferate as the organism's caloric intake increases. When the concentration of adipose tissue reaches a critical point, the viral antibodies instigate systemic cell lysis, followed by an unknown mechanism leading to the spontaneous combustion of the infected individual.
@@ -28,8 +24,3 @@ Addendum 081-2: SCP-081 is estimated to have existed since the 9██ and thoug
 Addendum 081-3: Due to the United States' current obesity epidemic, it is crucial that wild SCP-081 be eradicated. The exposure that would result from a wide scale epidemic would be disastrous to successful containment efforts. -Dr. ██████████.
 Addendum 081-4: During testing, it has been discovered that people who have diabetes have a natural immunity to SCP-081. This has not helped in the development of a treatment for the virus, and it remains incurable. Wild infections [DATA EXPUNGED] and an alternate cause of death provided.
 Addendum 081-5: It was discovered by Agent █████ that SCP-081 can spread by exposure to the ashes of a deceased victim. Containment and epidemic contingency protocols are being amended, and emergency services personnel who responded to Ms. █████████'s call have been detained for evaluation. -Dr. ██████████.
-
-
-« SCP-080 | SCP-081 | SCP-082 »
-
-

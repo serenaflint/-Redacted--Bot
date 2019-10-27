@@ -1,7 +1,3 @@
-
-rating: +540+–x
-Item #: SCP-003
-Object Class: Euclid
 Special Containment Procedures: SCP-003 is to be maintained at a constant temperature of no less than 35°C and ideally kept above 100°C. No living multicellular organisms of Category IV or higher complexity may be allowed to come into contact with SCP-003.
 In event of total power failure, if SCP-003-1 begins to increase its mass, assigned personnel must engage in skin contact with SCP-003-1. Ideally, personnel may use their body heat to return SCP-003-1 to above the critical temperature; however, skin contact must be maintained even in event of SCP-003 reaching activation temperature, lasting at minimum until SCP-003-1 advances fully to its second growth stage.
 Personnel who enter SCP-003's containment area must first be examined for body parasites of Category IV or higher complexity, and sterilized if such organisms are present. All personnel who have come in physical contact with SCP-003-1 are to immediately report for sterilization afterwards.
@@ -53,11 +49,3 @@ She didn't have time to finish analyzing us. I don't know what would have happen
 
 
 - Close File
-
-
-
-
-
-« SCP-002 | SCP-003 | SCP-004 »
-
-

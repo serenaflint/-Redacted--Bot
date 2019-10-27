@@ -1,12 +1,8 @@
-
-rating: +385+–x
-
-
 SCP-052
 
 
-Item #: SCP-052
-Object Class: Euclid
+
+
 Special Containment Procedures: Although it is not possible to remove SCP-052 from the New York City subway system, its predictable behavior allows the Foundation to prevent the public from encountering it. The 59th St. A/B/C/D Station is to be closed to the public from 11pm-1am on Saturdays/Sundays under the pretext of “track maintenance.” During that time, the station is to be staffed with agents from Mobile Task Force Gamma-6. Agents have been ordered to prevent accidental public access to the station, and to capture anyone seen leaving SCP-052. Anyone who has been on SCP-052 must be transported to Site-21 for debriefing and processing. Members of the public who see SCP-052 may be released after the administration of a Class B amnestic.
 Description: SCP-052 is a type R4 New York City subway train. Official records indicate this train was built in 1932 and decommissioned for scrap in 1975. Nevertheless, it continues to appear on the Uptown A/D track at the 59th St. and 8th Avenue station at 11:57 p.m. every Saturday. The train is in perfect condition and labeled as an “A” train. SCP-052 appears at the designated time, opens its doors to accept/discharge passengers for approximately five minutes, then closes its doors and disappears. It does not appear to ever contain passengers, except for those leaving the train during its appearance.
 The majority of subjects that have boarded SCP-052 have not been recovered. Passengers leaving SCP-052 claim to have boarded on various dates, from 1976, up to 2204; the latter claims he thought SCP-052 was a 300th Anniversary Special train. Subjects retain no knowledge of time on board.
@@ -32,8 +28,3 @@ Passenger 052-6: █████ ████████ claims to be a Level 4
 — To be a survivor of the “Great Zombie Plague of 2092” caused by an SCP-008 containment breach.
 — That SCP-███ can be killed by [DATA EXPUNGED] with a [DATA EXPUNGED] and SCP-███. [Permission to try this has been denied by O5-█.]
 — That he worked for Dr. Jack Bright.
-
-
-« SCP-051 | SCP-052 | SCP-053 »
-
-

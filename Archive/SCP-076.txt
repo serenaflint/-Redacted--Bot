@@ -1,11 +1,3 @@
-
-
-rating: +1098+–x
-
-
-
-
-
 FROM: Dr. █████ █. █████
 TO: Director Maria Jones, Recordkeeping and Information Security Administration
 SUBJECT: Revision of SCP-076 SCP File
@@ -15,8 +7,8 @@ For God's sake, man, those people guarding him deserve to know exactly what he i
 ███
 
 
-Item #: SCP-076
-Object Class: Keter
+
+
 Special Containment Procedures: Containment Area 25b is to be located 200 m below sea level, tunneled out of solid bedrock in a seismologically stable area. Sole access to the containment facility is to be through a vertical elevator shaft separated every fifty (50) meters with a reinforced blast door, constructed of 20 cm thick material shielding. Elevator shaft shall be flooded with seawater when not in use.
 Containment Area 25b is to be constructed with the following components:
 
@@ -78,8 +70,3 @@ Subject was in custody for three (3) more years, under constant supervision, and
 [DATA EXPUNGED]
 After the last incident, the current procedures regarding SCP-076 were implemented, although they are upgraded regularly with the increase in technological standards.
 Addendum 076-2: "Project Able" and "Mobile Task Force Omega-7"
-
-
-« SCP-075 | SCP-076 | SCP-077 »
-
-

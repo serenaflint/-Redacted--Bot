@@ -1,11 +1,3 @@
-
-
-rating: +2444+–x
-
-
-
-Item #: SCP-055
-Object Class: Keter
 Special Containment Procedures: Object is kept within a five (5) by five (5) by two point five (2.5) meter square room constructed of cement (fifty (50) centimeter thickness), with a Faraday cage surrounding the cement walls. Access is via a heavy containment door measuring two (2) by two point five (2.5) meters constructed on bearings to ensure door closes and locks automatically unless held open deliberately. Security guards are NOT to be posted outside SCP-055's room. It is further advised that all personnel maintaining or studying other SCP objects in the vicinity try to maintain a distance of at least fifty (50) meters from the geometric center of the room, as long as this is reasonably practical.
 Description: SCP-055 is a "self-keeping secret" or "anti-meme". Information about SCP-055's physical appearance as well as its nature, behavior, and origins is self-classifying. To clarify:
 
@@ -64,8 +56,3 @@ Dr. Hughes: Oh, right!
 It appears to be possible to remember what SCP-055 is not (negations of fact), and to repeatedly deduce its existence from these memories.
 Personnel involved in Survey #19-055-127BXE reported moderate levels of disorientation and psychological trauma associated with cycles of repeated memory and forgetfulness of SCP-055. However, no long-term behavioral or health problems were observed, and psych assessments of survey personnel showed consistent reports of this distress fading over time.
 Recommendations: It may be worthwhile to post at least one staff member capable of remembering the existence of SCP-055 to each critical site.
-
-
-« SCP-054 | SCP-055 | SCP-056 »
-
-

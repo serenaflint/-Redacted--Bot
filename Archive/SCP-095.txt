@@ -1,10 +1,6 @@
-
-rating: +252+–x
-Item #: SCP-095
-Object Class: Safe
 Special Containment Procedures: SCP-095 is to be placed in a standard polyethylene sleeve when not under scheduled research and stored in a standard locked filing cabinet to prevent damage or wear. High-resolution digital scans are available for any Level 1 and above personnel who wish to view SCP-095.
 Description: SCP-095 appears to be a set of three moderately aged black and white comic books printed in 1932. The front and rear covers are missing and several pages have been rendered illegible due to water damage. It was found by Agent ███████ in a small antique shop in Denver, Colorado, and purchased for a small fee without incident. The owner of the shop had apparently not read the item past the publisher’s date on the first page.
-Forensic inspections of SCP-095 have revealed it to be genuine, though completely unremarkable save for its content. It is printed on cheap pulp paper and inked with dyes common to other publications of its era. The publisher’s stamp indicates it was produced by ‘Future Funnies’, a company operating out of the town of Purple Lake, Ohio. All research and inquiries thus far have shown both the company and the town to be completely nonexistent.
+Forensic inspections of SCP-095 have revealed it to be genuine, though completely unremarkable save for its content. It is printed on cheap pulp paper and inked with dyes common to other publications of its era. The publisher’s stamp indicates it was produced by ‘Future Funnies’, a company opeistent.
 The comic itself is a pulp science fiction story entitled ‘The Atomic Adventures of Ronnie Ray-Gun’, featuring a lead character bearing an unmistakable resemblance to Former United States President Ronald Reagan. Each story opens with a large panel reading “In the Far-Fetched Future World of the 1980s, only Ronnie Ray-Gun can save the day.” It appears to follow an episodic format with one self-contained story per publication. The three stories are briefly described below.
 
 Ronnie vs. Space Admiral Carter
@@ -33,8 +29,3 @@ The New Menace – Death to Mankind!
 Personal Log of: Dr. █████████
 Date: 10-06-2004
 I don’t think I need to emphasize how important it is to recover any and all of the advertised stories immediately, the final two in particular.
-
-
-« SCP-094 | SCP-095 | SCP-096 »
-
-

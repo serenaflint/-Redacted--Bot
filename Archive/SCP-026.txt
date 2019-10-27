@@ -1,12 +1,8 @@
-
-rating: +416+–x
-
-
 Main foyer of SCP-026
 
 
-Item #: SCP-026
-Object Class: Euclid
+
+
 Special Containment Procedures: SCP-026 is to remain securely locked and boarded up at all times when there is no research ongoing. Alarms are set to alert the Foundation in case of entry by civilians or other agencies.
 Description: SCP-026 is a three (3) story public school building built in ████. It has two (2) wings connected to a central foyer. It was declared condemned in ████ after it was found the floor plan didn't match up to the building's blueprints (see Interview Log 026-01). It came to the Foundation's attention after several disappearances in the area were linked to visits to the abandoned building.
 The building demonstrates spatial anomalies. Its internal space is much greater than the external surface of the building would allow. Hallways display variable length, while stairways have differing numbers of steps going up or down. The number of rooms off the hallways changes each time they are counted. Attempts to reach the far ends of the hallways have met with failure thus far. Entrance through the fire escapes located at the ends of the hallways leads to doors approximately midway down the length of the halls.
@@ -32,8 +28,3 @@ Note 026-C: Several class D personnel exposed to SCP-026 have disappeared from F
 UPDATE: See Interview Log 026-08.
 Incident Report 026-12
 During a routine security check of SCP-026, Agent Malek was found unconscious by his partner, Agent Jones, in the main foyer. Initial attempts at rousing Agent Malek were ineffective, so he was moved for transportation to Site ██. Upon leaving the grounds of SCP-026, he woke abruptly in a state of agitation. When questioned, he revealed that he had been dreaming of a classroom setting. This dream has been consistent throughout all subjects who have fallen asleep within the grounds of SCP-026.
-
-
-« SCP-025 | SCP-026 | SCP-027 »
-
-

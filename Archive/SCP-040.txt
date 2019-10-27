@@ -1,7 +1,3 @@
-
-rating: +423+–x
-Item #: SCP-040
-Object Class: Euclid
 Special Containment Procedures: SCP-040 is to be contained in a standard humanoid containment module within Bio-Research Area-12. The chamber is to be connected to an airborne tranquilizer dispersal system, to be activated in the event of SCP-040 manifesting its properties outside of testing environments. The chamber is to be observed by two supervisory personnel at all times. Recreational items such as toys, games, and art supplies may be provided to SCP-040 at the discretion of supervisory personnel.
 As they have been determined to pose no possible threat, SCP-040-1a, SCP-040-1c, and SCP-040-1j have been approved to remain in the containment chamber with SCP-040 for purposes of the subject’s mental well-being. (Security Chief Special Order 392-5: ██/██/██). All other entities modified by SCP-040 are to be disposed of after recovery and study according to standard biological specimen clearance protocols, as outlined in Document CDP-BIO-EN-1. No outside organisms are to be brought into SCP-040’s presence beyond those used in testing procedures.
 SCP-040 is to undergo daily school lessons and bi-weekly psychological review, overseen by Drs. Habernathy, Logan, and Izawa.
@@ -33,8 +29,3 @@ Dr. Habernathy: Can you tell me anything else?
 SCP-040: Hmmm…They always served us peas for dinner, and I hate peas, so I always gave mine to Five, because she liked peas. But I think green beans are better.
 
 Addendum-03: ██/██/20██ - SCP-040 successfully reanimated a deceased human body during testing, using three specimens of brown rat (Rattus norvegicus) as the required living component. Resultant subject retained no memories of previous life, and was judged to be of the approximate mental capacity of a human toddler. SCP-040 was highly distressed by the event and refused further testing for the next three weeks.
-
-
-« SCP-039 | SCP-040 | SCP-041 »
-
-

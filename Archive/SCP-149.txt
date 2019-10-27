@@ -1,0 +1,9 @@
+SCP-149 infecting a Class-D test subject.
+
+
+
+
+Special Containment Procedures: SCP-149 in any of its instances is to be kept inside a sealed plexi-glass box for observation. Oxygen and a nutrient mist are to be released into the containment cell every two hours. If any instance of SCP-149 escapes its cell, Protocol-42-Charlie is to be brought into effect on any and all contaminated personnel, by order of O5-12, after Incident 149-1.
+Description: SCP-149 is a breed of mosquito which carries a strain of retrovirus (herein referred to as SCP-149-A) that mutates regeneodus through the mouth and nostrils, occasionally being diverted through the Sphenoid sinuses to escape through the eye sockets. Infection by SCP-149 is fatal, and chance of infection has been estimated to be 50% from one bite.
+Addendum:
+Incident 149-1: An incidence of SCP-149 escaped and infected multiple Class-D subjects, the majority of whom did not report SCP-149's contact with them. Within 5 hours, SCP-149 had matured in these hosts and burst out of them, infecting ███ staff. It was only thanks to the quick thinking of Doctor ██████, who sealed sub-levels 12 through 15, that the entire site was not infected. As a response to this, O5 command has created Protocol-42-Charlie, to be used if SCP-149 escapes confinement.

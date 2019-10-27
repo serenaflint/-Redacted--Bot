@@ -1,12 +1,8 @@
-
-rating: +157+–x
-
-
 SCP-047 in situ before recovery from Site-██ Secure Laboratory after a containment breach.
 
 
-Item #: SCP-047
-Object Class: Keter
+
+
 Special Containment Procedures: SCP-047 is to be contained in a 0.5 m x 0.5 m x 1 m hermetically sealed storage box at all times. This box is to be locked in storage locker 047a, inside P3-secure biohazard lab 047b. Any entrance to and activity inside 047b will be recorded by biometric scan, closed circuit camera, and [REDACTED].
 Entry to 047b requires the authorization of the project manager, in addition to at least one O5 level clearance. SCP-047 is to be treated as a Priority 4 Contagious Biohazard in all protocols, including mandatory quarantine if exposed. Suite q047 has been provided, adjunct to lab 047b, for this purpose.
 In the event of outside contamination of SCP-047-1, Lockdown Protocol 047-01 "Yersinia" must be engaged.
@@ -74,8 +70,3 @@ Handling: Until further research has been done, victims should be quarantined an
 
 
 Recovery Log 047: SCP-047 was recovered from the Site-██ Secure Laboratory by a Foundation Biohazard Recovery Team in response to a full compromise situation on ██/██/199█. Testing logs indicate that the research team was attempting to contain [DATA EXPUNGED] in a class-██ SCP-stable pressure cylinder, which led to [REDACTED] combining with [REDACTED]. A full molecular biological analysis of this is available in [REDACTED]. The initial release of gas when SCP-047 was structurally compromised was sufficient to cause a microbiotal "bloom" of uncounted species of SCP-047-1, killing all staff in the lab within █ hours. Exposed Site-██ staff obeyed standard Foundation quarantine/containment protocol, and the infection was contained successfully.
-
-
-« SCP-046 | SCP-047 | SCP-048 »
-
-

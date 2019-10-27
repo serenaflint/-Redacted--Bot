@@ -1,7 +1,3 @@
-
-rating: +165+–x
-
-
 Example of SCP-059
 
 
@@ -10,8 +6,8 @@ Example of SCP-059
 Room Infested By SCP-059-1
 
 
-Item #: SCP-059
-Object Class: Keter
+
+
 Special Containment Procedures: A single specimen of SCP-059 is kept at Site-11B inside a graded-Z laminate shielding box composed of depleted uranium, tantalum, tin, steel, copper, and aluminum. Surrounding SCP-059’s containment box is a 7 x 7 x 7 m area sealed as a Level-4 Biohazard area, and surrounded by 3 cm of lead shielding. This area is to be sprayed daily with a solution of methyl isothiocyanate to prevent overgrowth of SCP-059-1.
 Personnel entering an SCP-059 affected area are cautioned to wear appropriate biohazard protection, as well as Type K-59-B radiation shielding. They are to remain in the area for no more than 15 minutes, as the radiation shielding is only partially effective.
 SCP-059-1 infestations found in the wild should be contained by removing the SCP-059 specimen responsible, and incineration of all observed SCP-059-1. Large underground infestations are best neutralized by fuel-air (thermobaric) explosives.
@@ -24,8 +20,3 @@ Infected individuals still capable of communication describe seeing a world enti
 SCP-059-1 is affected by most fungicides, but new growth will continue as long as SCP-059 is present. Early stage SCP-059-1 infection in humans may be treated with griseofulvin, however the treatment is 90% likely to lead to death by radiation poisoning. Treated individuals lose their immunity to radiation, and will already have absorbed a now lethal dose prior to treatment. Late stage treatment should not be attempted, as too much tissue will already be converted to SCP-059-1. [DATA EXPUNGED]. The remains of failed treatments should be kept out of range of SCP-059, otherwise [DATA EXPUNGED].
 SCP-059 specimens have been discovered in 8 different underground locations, across a range of 5000 km. No pattern has emerged for their appearance. Specimens range from 1-10 kg in size, and are not part of the normal rock formations in the areas where they have been found.
 Addendum: Dr. ███████ has recorded and analyzed the patterns of radiation emitted by the contained SCP-059-1 colony, and believes SCP-059-1 may be sapient and attempting to communicate via controlled emissions of radiation. Initial attempts to analyze this "language" reveal [DATA EXPUNGED].
-
-
-« SCP-058 | SCP-059 | SCP-060 »
-
-

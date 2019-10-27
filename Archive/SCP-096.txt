@@ -1,7 +1,3 @@
-
-rating: +2115+–x
-Item #: SCP-096
-Object Class: Euclid
 Special Containment Procedures: SCP-096 is to be contained in its cell, a 5 m x 5 m x 5 m airtight steel cube, at all times. Weekly checks for any cracks or holes are mandatory. There are to be absolutely no video surveillance or optical tools of any kind inside SCP-096's cell. Security personnel will use pre-installed pressure sensors and laser detectors to ensure SCP-096's presence inside the cell.
 Any and all photos, video, or recordings of SCP-096's likeness are strictly forbidden without approval from Dr. ███ and O5-█.
 Description: SCP-096 is a humanoid creature measuring approximately 2.38 meters in height. Subject shows very little muscle mass, with preliminary analysis of body mass suggesting mild malnutrition. Arms are grossly out of proportion with the rest of the subject's body, with an approximate length of 1.5 meters each. Skin is mostly devoid of pigmentation, with no sign of any body hair.
@@ -48,9 +44,3 @@ Dr. ███: All right, I believe we are done here. Thank you, Captain.
 [Chairs are heard moving, and footsteps leave the room. Captain (Ret.) █████████ is confirmed to have left Interview Room 22.]
 Dr. ███: Let this be on record that I am formally requesting SCP-096 be terminated as soon as possible.
 <End log>
-
-
-
-« SCP-095 | SCP-096 | SCP-097 »
-
-

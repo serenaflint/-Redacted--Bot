@@ -1,12 +1,8 @@
-
-rating: +621+–x
-
-
 SCP-066, prior to Incident 066-2.
 
 
-Item #: SCP-066
-Object Class: Safe-prodest Euclid-impetus
+
+-impetus
 Special Containment Procedures: SCP-066 is to be kept in a safe-deposit box at Site 21. Personnel Level 2 or higher may perform experiments on SCP-066 after filing the relevant request forms. Researchers may log their results in Experiment Log 066-Beta.
 SCP-066 is to be kept in a tungsten carbide box in Site 21’s high-value item storage facility. Once every month, this box must be manually inspected for damage to the interior;1 if damage is present, SCP-066 must be moved to a new box. This task is performed via a robotic arm capable of performing the task in under three seconds.
 Description: SCP-066 is an amorphous mass of braided yarn and ribbon weighing approximately one kilogram. Strands of SCP-066 may be taken individually and manipulated; when this is done, a note on the diatonic scale (C-D-E-F-G-A-B) is produced by the object.
@@ -33,9 +29,3 @@ When it is not producing anomalous effects, SCP-066 will say the name “Eric”
 
 Footnotes
 1. SCP-066 consistently destroys any recording devices placed inside its containment box.
-
-
-
-« SCP-065 | SCP-066 | SCP-067 »
-
-

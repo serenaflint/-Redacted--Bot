@@ -1,7 +1,3 @@
-
-rating: +221+–x
-Item #: SCP-083
-Object Class: Euclid
 Special Containment Procedures: SCP-083 is to be kept under constant video surveillance, with at least one Level 3 staff member on call at all times to respond to security breaches. Entrance to SCP-083 is permissible to Level 1 and 2 personnel with proper clearances, provided they wear a tracking device while inside.
 Description: SCP-083 appears to be an uninhabited, two-story row house in a general state of disrepair, with an interior of approximately 366 square meters. It is located in the ██████████ block of ███████. The deed and property tax records for the address are missing after ██████. The last known persons to reside at the address were the ███████ family, but [DATA EXPUNGED]. Until acquisition by the Foundation, the property was the reputed "office" for local narcotics dealers who gained entry to the structure through a front window, since the locking mechanisms on both the front and back doors were corroded and frozen shut. SCP-083 first came to the Foundation's attention on ███████, when an altercation outside the building resulted in the front door being kicked in by [DATA EXPUNGED].
 Those who entered through the door of SCP-083 (Group A) allegedly found themselves inside a fully-furnished and well-maintained home with functioning electricity and a fully-stocked kitchen whose appliances and decor appeared to be from the early 20th Century. Personnel who entered through the windows (Group B) described the interior as "dark and dilapidated," corresponding to the view through the windows. Personnel in Group A also reported that they couldn't see, hear, or find any members of Group B inside the house or of anyone else besides themselves. Group B observed that members of Group A seemed to "vanish into thin air" upon crossing the door's threshold.
@@ -26,8 +22,3 @@ On █████, smoke was observed emanating from SCP-083's chimney. Agent �
 A sweep of SCP-083 found no other evidence of intruders, and review of video surveillance confirmed no one else entering or leaving the house aside from appropriate personnel at expected intervals. Agent ████████ remained on-site until the fire was out, at which point smoke emanations ceased and did not recur. Agent ████████ made no alterations to SR-12 and left the premises at ████. Twenty-four hours later, Agent ████████ returned to SCP-083, but SR-12 was no longer present and has not been found on three subsequent walkthroughs.
 Analysis of the █████ cigar did not produce any DNA, but did yield [DATA EXPUNGED].
 Addendum: Recommend SCP-083 be evaluated for upgrade to Euclid status. [Approved ██/██/████]
-
-
-« SCP-082 | SCP-083 | SCP-084 »
-
-

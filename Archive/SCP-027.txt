@@ -1,7 +1,3 @@
-
-rating: +405+–x
-Item #: SCP-027
-Object Class: Euclid
 Special Containment Procedures: The host of SCP-027 (currently subject 027-02) is to be kept in a 5 m x 5 m containment cell with a grated, raised floor connected to a strong vacuum system. All creatures removed from the Subject's containment cell are to be incinerated, except for a small portion to be diverted for analysis and necropsy. The cell is to be cleaned and inspected for structural damage daily.
 Subject 027-02 must be monitored by at least two personnel at all times. Any unusual behavior or vital signs on the part of the subject or the appearance of any unusual species in the subject’s vicinity must immediately be reported to Level 4 personnel.
 Security personnel assigned to SCP-027 must be inoculated against all known animal-borne pathogens and must be armed with tranquilizer guns, with standing orders to subdue the subject if the need arises.
@@ -33,9 +29,3 @@ S: [agitated] No, I haven't felt anything except bugs crawling all over me! I fe
 J: Of… of course. We're going to do everything we can to get 027 out of you. God, I… I'm sorry, K██████….
 
 Note: Shortly after this interview took place, Dr. Jameson and several other members of the research team for SCP-027 were transferred to the SCP-1772 project.
-
-
-
-« SCP-026 | SCP-027 | SCP-028 »
-
-
